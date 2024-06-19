@@ -10,6 +10,12 @@ Device maintainer: semisapeol
 - Play Integrity is not passed by default, use [Play Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix/releases)
 - Wait some time to settle
 
+$ v2.5 - Uday
+- New Meteora kernel
+- May security patch
+- Optimized ART
+- Make signed builds
+
 # v2.0 - Uday
 - Initial official build
 - May security patch
